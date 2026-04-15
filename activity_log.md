@@ -5,3 +5,4 @@
 - [2026-04-15T15:33:40Z] refactor: clean up unused imports
 - [2026-04-15T11:01:03Z] docs: update README with usage examples
 - [2026-04-15T21:48:34Z] perf: optimize loop for better performance
+- [2026-04-15T14:02:04Z] refactor: clean up unused imports
